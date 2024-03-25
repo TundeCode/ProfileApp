@@ -164,9 +164,9 @@
                 "Width": 43,
                 "Visible": true,
                 "X": 331,
-                "Y": 167,
+                "Y": 183,
                 "RelativeX": 331,
-                "RelativeY": 167,
+                "RelativeY": 183,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -199,7 +199,7 @@
                 "Raised": false,
                 "Disabled": false,
                 "position": "absolute",
-                "edgeOffsets": 167.00346374511716,
+                "edgeOffsets": 183,
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824"
             },
             "children": [],
@@ -222,10 +222,10 @@
                 "Height": 35,
                 "Width": 126,
                 "Visible": true,
-                "X": 206,
-                "Y": 159,
-                "RelativeX": 206,
-                "RelativeY": 159,
+                "X": 208,
+                "Y": 174,
+                "RelativeX": 208,
+                "RelativeY": 174,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -268,7 +268,7 @@
                     "lineHeight": 1
                 },
                 "position": "absolute",
-                "edgeOffsets": 159.00346374511716,
+                "edgeOffsets": 174,
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
                 "children": "Enter Fav Color",
                 "letterSpacing": 0,
@@ -1585,11 +1585,11 @@
             "translatedName": "Image",
             "properties": {
                 "resizeMode": "stretch",
-                "Height": 129,
-                "Width": 189,
+                "Height": 167,
+                "Width": 217,
                 "Visible": true,
-                "X": 88.546875,
-                "Y": 296,
+                "X": 65,
+                "Y": 254,
                 "style": {
                     "marginTop": 0,
                     "marginBottom": 0,
@@ -1615,10 +1615,10 @@
                     "shadowRadius": 0
                 },
                 "position": "absolute",
-                "edgeOffsets": 296.296875,
+                "edgeOffsets": 254,
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
-                "RelativeX": 88.546875,
-                "RelativeY": 296
+                "RelativeX": 65,
+                "RelativeY": 254
             },
             "children": [],
             "id": "f511ecbe-4847-4519-97b9-cb29742fe530",
